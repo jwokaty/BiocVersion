@@ -2,7 +2,7 @@ on:
   push:
   workflow_dispatch:
 
-name: All ubuntu build and test
+name: All ubuntu build and test 
 
 jobs:
   check:
