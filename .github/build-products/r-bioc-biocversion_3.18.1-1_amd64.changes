@@ -1,5 +1,5 @@
 Format: 1.8
-Date: Fri, 12 Jan 2024 03:44:24 +0000
+Date: Tue, 06 Feb 2024 20:47:24 +0000
 Source: r-bioc-biocversion
 Binary: r-bioc-biocversion
 Built-For-Profiles: noudeb
@@ -16,11 +16,11 @@ Changes:
  .
    * Initial release (closes: #xxxxxx)
 Checksums-Sha1:
- 806088d5cd847ef9a18166e775b784567cd6cdef 11007 r-bioc-biocversion_3.18.1-1_amd64.buildinfo
- 729fd1066e6e29fccfe429693eaa30f1151c1927 9742 r-bioc-biocversion_3.18.1-1_amd64.deb
+ 07c110d8416b4cf742b6889f037326b316839c6a 11007 r-bioc-biocversion_3.18.1-1_amd64.buildinfo
+ b69bb3ae59223091056942616ffd0643a911f468 9734 r-bioc-biocversion_3.18.1-1_amd64.deb
 Checksums-Sha256:
- 8f983687681eec0f2b735cb1bdf91597a805caa5a588233ce60e5f669993045a 11007 r-bioc-biocversion_3.18.1-1_amd64.buildinfo
- dd2aa95a94424e0c6efea245d012bef43c0d18402b4f7184b1bb47c6a6a9a297 9742 r-bioc-biocversion_3.18.1-1_amd64.deb
+ 38801821b28a33c2d6e20452ea98df04765642426cac506af5249e70638475c3 11007 r-bioc-biocversion_3.18.1-1_amd64.buildinfo
+ 5fed4593a6c34a22ab951f3c12158eace8f997ae6860a670c85e04b8fea6656f 9734 r-bioc-biocversion_3.18.1-1_amd64.deb
 Files:
- be1c2527d881b0f3875b956316a04f9b 11007 gnu-r optional r-bioc-biocversion_3.18.1-1_amd64.buildinfo
- fef694baaeb1b96b4137d58970d2f204 9742 gnu-r optional r-bioc-biocversion_3.18.1-1_amd64.deb
+ bde64d66aec1de0d0e6c75c69b73b287 11007 gnu-r optional r-bioc-biocversion_3.18.1-1_amd64.buildinfo
+ c2d9bcaac0536d2605e6922ba248179b 9734 gnu-r optional r-bioc-biocversion_3.18.1-1_amd64.deb
